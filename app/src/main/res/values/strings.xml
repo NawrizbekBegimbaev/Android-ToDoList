@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="input_your_name">Дата(12.34.5678)</string>
+    <string name="input_your_purpose">Напиши цель</string>
+    <string name="start_text">Добавить</string>
+</resources>
